@@ -1,39 +1,45 @@
-# QA Project - E-commerce Testing
+# Projeto QA - Testes Funcionais em E-commerce
 
-## About
+## Sobre o Projeto
 
-Manual testing project created to validate critical e-commerce functionalities.
+Projeto de testes manuais criado para validar funcionalidades críticas de um sistema de e-commerce.
 
-## Scope
+## Escopo
 
-- Login
-- User Registration
-- Product Listing
-- Shopping Cart
-- Checkout
+* Login
+* Cadastro de Usuário
+* Listagem de Produtos
+* Carrinho de Compras
+* Checkout
 
-## Test Types
+## Tipos de Teste Aplicados
 
-- Functional Testing
-- Exploratory Testing
-- End-to-End Testing
-- Field Validation
+* Testes Funcionais
+* Testes Exploratórios
+* Testes End-to-End (E2E)
+* Validação de Campos
 
-## Results
+## Resultados
 
-- 10 Test Cases Executed
-- 6 Passed
-- 4 Failed
-- 4 Bugs Identified
+* 10 Casos de Teste Executados
+* 6 Casos Aprovados
+* 4 Casos Reprovados
+* 4 Bugs Identificados
 
-## Skills Demonstrated
+## Competências Demonstradas
 
-- Test Case Design
-- Bug Reporting
-- Defect Prioritization
-- Functional Testing
-- Quality Assurance Documentation
+* Elaboração de Casos de Teste
+* Documentação de Bugs
+* Classificação de Severidade e Prioridade
+* Testes Funcionais
+* Documentação de QA
 
-## Author
+## Ferramentas Utilizadas
+
+* Google Chrome
+* Microsoft Excel
+* Técnicas de Teste Manual
+
+## Autora
 
 Tatiane Bergstron
