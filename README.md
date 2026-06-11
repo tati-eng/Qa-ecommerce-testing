@@ -1,45 +1,40 @@
-# Projeto QA - Testes Funcionais em E-commerce
+# Portfólio de QA - Tatiane Bergstron
 
-## Sobre o Projeto
+Bem-vindo ao meu portfólio de Qualidade de Software (QA).
 
-Projeto de testes manuais criado para validar funcionalidades críticas de um sistema de e-commerce.
+Este repositório reúne projetos desenvolvidos durante minha jornada de aprendizado e prática em testes de software, incluindo testes manuais, validação de banco de dados com SQL e futuramente testes de API.
 
-## Escopo
+## Projetos
 
-* Login
-* Cadastro de Usuário
-* Listagem de Produtos
-* Carrinho de Compras
-* Checkout
+### Projeto 01 - Testes Funcionais em E-commerce (SauceDemo)
 
-## Tipos de Teste Aplicados
+Validação das principais funcionalidades de um sistema de e-commerce utilizando testes manuais.
 
+Competências demonstradas:
+
+* Elaboração de Casos de Teste
 * Testes Funcionais
 * Testes Exploratórios
 * Testes End-to-End (E2E)
-* Validação de Campos
-
-## Resultados
-
-* 10 Casos de Teste Executados
-* 6 Casos Aprovados
-* 4 Casos Reprovados
-* 4 Bugs Identificados
-
-## Competências Demonstradas
-
-* Elaboração de Casos de Teste
 * Documentação de Bugs
 * Classificação de Severidade e Prioridade
-* Testes Funcionais
-* Documentação de QA
 
-## Ferramentas Utilizadas
+### Próximos Projetos
 
-* Google Chrome
+* Projeto 02 - SQL para QA
+* Projeto 03 - Testes de API com Postman
+
+## Tecnologias e Ferramentas
+
+* Jira
+* SQL
+* Postman
+* GitHub
 * Microsoft Excel
-* Técnicas de Teste Manual
+* Google Chrome
 
-## Autora
+## Sobre Mim
 
-Tatiane Bergstron
+Profissional formada em Análise e Desenvolvimento de Sistemas, com foco em Qualidade de Software (QA). Possuo experiência prática na criação de casos de teste, execução de testes funcionais e documentação de bugs.
+
+Atualmente busco minha primeira oportunidade como QA Júnior.
